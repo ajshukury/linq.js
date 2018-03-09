@@ -2,7 +2,7 @@
   "name": "linqjs",
   "version": "0.0.0",
   "description": "linqjs",
-  "main": "app.js",
+  "main": "dist/linqjs.min.js",
   "author": {
     "name": "neuecc",
     "email": ""
